@@ -1,0 +1,3 @@
+#Ignore files and never push ~files genrated by Emacs
+*~
+~*
